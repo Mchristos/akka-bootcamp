@@ -3,6 +3,7 @@
 
 # Monodevelop
 .vi/
+UserPrefs.xml
 
 # User-specific files
 *.suo
